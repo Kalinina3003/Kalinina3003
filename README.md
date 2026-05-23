@@ -1,10 +1,8 @@
 ## Hi there, I'm Maria Kalinina! 👋
 
-<p align="center">
-  <img src="https://shields.io" alt="JavaScript">
-  <img src="https://shields.io" alt="UI/UX Designer">
-  <img src="https://shields.io" alt="SoftUni">
-</p>
+🔹 **Learning:** JavaScript  
+🔹 **Background:** UI/UX Designer  
+🔹 **Education:** SoftUni Student 
 
 ---
 
