@@ -23,8 +23,3 @@
 - 📚 I spend my time reading books, watching movies, and staying active with sports.
 
 ---
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
